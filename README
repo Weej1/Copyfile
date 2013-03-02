@@ -1,0 +1,11 @@
+﻿A very simple win32-utility to copy a file ignoring errors (including CRC errors).
+
+This is useful when you try to recover a file from scratchy CD or hard disk with bad blocks and you can live with zeroed blocks instead of parts were not read.
+
+----
+
+Это очень простая win32-утилита для копирования файлов игнорируя ошибки, включая CRC-ошибки.
+
+Бывает полезной, когда нужно прочитать файл с поцарапанного CD или винчестера с бэд-блоками и если вы можете согласиться с тем что вместо оных в результирующем файле будут нулевые блоки.
+
+-- dennis@conus.info
